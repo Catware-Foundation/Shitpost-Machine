@@ -1,9 +1,5 @@
-img.trololo {
-    width: 30% !important;
-    height: 30% !important;
-  display: block !important;
-  margin-left: auto ;
-  margin-right: auto ;
+img {
+    max-width: 100vw !important;
 }
 
 body {

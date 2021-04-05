@@ -2,5 +2,10 @@
 # Shitpost-Machine
 Продвинутый генератор щитпостов. 
 # Использование
-```python3 shitpostmachine.py```
-Заходим в папку shitposts, открываем сгенерированый щитпост в браузере и наслаждаемся.
+
+```
+python3 -m pip install -r requirements.txt
+python3 shitpostmachine.py
+```
+
+Заходим на `http://127.0.0.1:12345`
