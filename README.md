@@ -5,4 +5,4 @@
 ```python3 shitpostmachine.py```
 Заходим в папку shitposts, открываем сгенерированый щитпост в браузере и наслаждаемся.
 
-Демо-версия: !(https://sm.ctw.re)
+Демо-версия: ![sm.ctw.re](https://sm.ctw.re)
